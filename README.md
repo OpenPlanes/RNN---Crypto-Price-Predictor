@@ -1,5 +1,5 @@
 # RNN - Crypto Price Predictor
- RNN stands for recurrent neural network. The idea of the recurrent neural network is that sequences and orders matter
+ RNN stands for recurrent neural network. The idea of the recurrent neural network is that sequences and orders matter.
  Improving my knowledge of RNN by predicting Crypto Price
  Specifically focusing on sequence of features
  A pretty common time-series dataset will be stocks.
