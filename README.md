@@ -14,4 +14,6 @@
  4. Create out of sample data
  5. analyze the accuracy of the RNN
 
+![1st_iteration](https://user-images.githubusercontent.com/106100235/218560446-856fe3ba-ccb6-4dea-9f18-5d93e9053a2c.png)
+![2nd_iteration](https://user-images.githubusercontent.com/106100235/218560462-e5182139-7784-4e1a-963f-d510502ff640.png)
 
